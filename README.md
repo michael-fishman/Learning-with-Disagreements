@@ -34,3 +34,6 @@ Traditional approaches often view annotator disagreements as mere noise that com
 ## Contribution
 
 Contributions are welcome to refine our methods or expand the scope of datasets. For specific instructions on how to contribute, please refer to the documentation within each script.
+
+![פרויקט תכן](https://github.com/user-attachments/assets/19457e03-fa77-4ca8-8e8d-41bb621415bc)
+
